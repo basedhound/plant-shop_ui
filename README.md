@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://garden-fv.netlify.app" target="_blank">
-      <img src="design/preview.webp" alt="Project Banner">
+      <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Garden Shop</h3>
 </div>
@@ -22,8 +22,8 @@
 - HTML
 - CSS
 - JavaScript
-- Sass
-- ScrollReveal.js
+- Sass [📄](https://sass-lang.com/documentation) 
+- ScrollReveal.js [📄](https://scrollrevealjs.org/guide/hello-world.html) 
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
