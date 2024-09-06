@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://garden-fv.netlify.app" target="_blank">
+    <a href="https://plants-fv.netlify.app" target="_blank">
       <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Garden Shop</h3>
